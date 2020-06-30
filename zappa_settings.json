@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "aws_region": "eu-west-1",
+        "django_settings": "acme.settings",
+        "profile_name": "default",
+        "project_name": "acme",
+        "runtime": "python3.7",
+        "s3_bucket": "zappa-t7c4aub5e"
+    }
+}

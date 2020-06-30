@@ -1,0 +1,17 @@
+django>=3.0,<3.1
+djangorestframework>=3.11,<3.12
+django-cors-headers
+django_money
+phonenumbers
+django-phonenumber-field[phonenumbers]
+postcode-validator-uk
+celery
+django-celery-results
+requests
+pytest-django
+pytest-sugar
+pytest-cache
+coverage
+pycodestyle
+mock
+zappa
