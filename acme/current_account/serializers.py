@@ -45,7 +45,7 @@ class ApplicationSerializer(serializers.ModelSerializer):
             setattr(instance.customer, attr, value)
         instance.customer.save()
         if 'status' in validated_data:
-            instance.status=validated_data['status']
+            instance.status = validated_data['status']
         instance.save()
         return instance
 
