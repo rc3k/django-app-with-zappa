@@ -1,4 +1,4 @@
-django>=3.0,<3.1
+django>=3.0,<3.2
 djangorestframework>=3.11,<3.12
 django-cors-headers
 django_money
